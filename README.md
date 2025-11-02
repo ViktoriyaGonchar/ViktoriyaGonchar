@@ -1,7 +1,7 @@
 # Виктория Гончар
 ## Junior Python Developer
 
-<!-- ![Banner](assets/banner.jpg) -->
+![Banner](imgs/Viktoriya_Kim_Gonchar.jpg)
 
 ---
 
@@ -56,8 +56,7 @@
 
 **Описание:** Современный интернет-магазин с веб-интерфейсом и локальной CRM-панелью. Проект демонстрирует применение принципов SOLID и DRY, модульную архитектуру с использованием паттернов Repository и Service Layer.
 
-<!-- ![SHOP SHIPS Screenshot](assets/shop-ships-main.png) -->
-**📸 [Скриншот главной страницы](assets/shop-ships-main.png)**
+![SHOP SHIPS Screenshot](imgs/ships_shop_1.png)
 
 #### ✨ Основные возможности
 
@@ -97,8 +96,8 @@ internet_shop/
 └── static/               # CSS, JS, изображения
 ```
 
-<!-- ![SHOP SHIPS Admin Panel](assets/shop-ships-admin.png) -->
-**📸 [Скриншот админ-панели](assets/shop-ships-admin.png)**
+![Скриншот админ-панели](imgs/ships_shop_2.png)**
+
 
 **Технологии:** Python 3.8+, Flask 3.0+, Bootstrap 5.3+, JSON Storage
 
@@ -110,8 +109,7 @@ internet_shop/
 
 **Описание:** Полнофункциональное веб-приложение для обнаружения уязвимостей безопасности в веб-приложениях: XSS (межсайтовый скриптинг) и SQL-инъекции. Построено на FastAPI с современным интерфейсом на Bootstrap 5.
 
-<!-- ![Security Scanner Main](assets/security-scanner-main.png) -->
-**📸 [Скриншот главной страницы](assets/security-scanner-main.png)**
+![Security Scanner Main](imgs/Security_Scanner_API_1.png)
 
 #### ✨ Основные возможности
 
@@ -129,8 +127,7 @@ internet_shop/
 - ⚙️ Управление правилами сканирования
 - 📋 Системные логи для мониторинга
 
-<!-- ![Security Scanner Admin](assets/security-scanner-admin.png) -->
-**📸 [Скриншот админ-панели](assets/security-scanner-admin.png)**
+![Security Scanner Admin](imgs/Security_Scanner_API_2.png)
 
 **Технологии:** Python, FastAPI, Bootstrap 5, SQLite, JWT
 
